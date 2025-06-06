@@ -11,7 +11,7 @@
 <form id="form1" runat="server">
     <div>
         
-        <h1>Pagina 1 - Hernaldo Montecinos</h1>
+        <h1>Pagina 1 - Francisco Montecinos</h1>
             
         <img src="img/LOGO-FONDO-BLANCO-JPG.png" alt="IPChile Logo" class="logo-ipchile" /><br /><br />
         
