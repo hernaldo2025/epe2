@@ -27,6 +27,13 @@
       
     <asp:Label ID="Label3" runat="server" Text="Ir a Pagina Web 3:"></asp:Label><br /><br />
     <asp:Button ID="btnIrPagina3" CssClass="boton-retorno" runat="server" Text="Formulario de Contacto" OnClick="btnIrPagina3_Click" /><br /><br />
+
+    <asp:Label ID="Label4" runat="server" Text="Ir a Pagina Web 4:"></asp:Label><br /><br />
+    <asp:Button ID="btnIrPagina4" CssClass="boton-cuarto" runat="server" Text="Ir a la calculadora" OnClick="btnIrPagina4_Click" /><br /><br />
+
+    <asp:Label ID="Label5" runat="server" Text="Ir a Pagina Web 5:"></asp:Label><br /><br />
+    <asp:Button ID="Button1" CssClass="boton-quinto" runat="server" Text="Ir a mostrar las variables" OnClick="btnIrPagina5_Click" /><br /><br />
+
         
 </form>
 </body>

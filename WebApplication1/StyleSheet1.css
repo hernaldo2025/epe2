@@ -36,4 +36,21 @@ input.boton-retorno[type="submit"] {
     cursor: pointer;
     border-radius: 10px;
 }
+input.boton-cuarto[type="submit"] {
+    background-color: #a569bd;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+input.boton-quinto[type="submit"] {
+    background-color: #5b5a0f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
 
