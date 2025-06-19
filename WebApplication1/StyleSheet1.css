@@ -54,3 +54,12 @@ input.boton-quinto[type="submit"] {
     border-radius: 10px;
 }
 
+input.boton-sexto[type="submit"] {
+    background-color: #ff717f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
